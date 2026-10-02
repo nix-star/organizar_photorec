@@ -1,5 +1,8 @@
 ¡Este es el primer proyecto git de nix-star!
 
+Originalmente llamado:
+git_test
+
 Prueba para GitHub
 Mayo 2026!!!
 
